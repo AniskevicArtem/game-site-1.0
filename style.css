@@ -112,6 +112,25 @@ body {
 .img-mobile {
     display: none;
 }
+.gallery, .articles {
+    background-color: #F1EFE4;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    background: transparent;
+    display: flex;
+    align-items: center;
+}
+.swiper-slide {
+width: 80%;
+}
+
 
 
 @keyframes rotation {
